@@ -1,7 +1,7 @@
 # Main Headline
 **Bold text**
 
-*Italick text*
+*Italic text*
 
 **Bold _with italic_ inside it**
 
