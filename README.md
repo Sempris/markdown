@@ -16,3 +16,14 @@
 - List content 1
 - List content 2
 - List content 3
+
+Rene Decartes
+
+> Cogito ergo sum
+
+Some basic Git commands:
+```
+git status
+git add
+git commit
+```
