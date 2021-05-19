@@ -7,6 +7,7 @@
 - List content 1
 - List content 2
 - List content 3
+
 **Bold text**
 *Italick text*
 **Bold _with italic_ inside it**
